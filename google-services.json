@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860817661669",
+    "project_id": "stikom-mobile",
+    "storage_bucket": "stikom-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860817661669:android:334181b312810c4552fe0c",
+        "android_client_info": {
+          "package_name": "com.stikom.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ6pbfZ70wj6gz2xv0dXgVo4WQ_g2iiSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
